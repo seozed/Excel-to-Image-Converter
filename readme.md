@@ -19,5 +19,5 @@ curl -X POST -F "file=@<path to Excel file>" <application URL>/convert
 ```
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details. 
 I hope this helps!
